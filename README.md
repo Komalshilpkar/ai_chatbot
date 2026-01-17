@@ -4,4 +4,5 @@ An AI chatbot built using Python and Streamlit, powered by Groq’s free LLaMA 3
 Supports multiple modes: Chat, Coding, and Interview.
 
 ## Run locally
+https://aichatbot-cy8zeivo6cvapyqx9pfhcm.streamlit.app/
 
